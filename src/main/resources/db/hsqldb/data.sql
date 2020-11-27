@@ -53,3 +53,5 @@ INSERT INTO visits VALUES (3, 8, '2013-01-03', 'neutered');
 INSERT INTO visits VALUES (4, 7, '2013-01-04', 'spayed');
 INSERT INTO pets VALUES (14, 'Jolly Jumper', '2012-09-20', 7, 5;
 INSERT INTO pets VALUES (15, 'Flycka', '2012-07-14', 7, 9);
+INSERT INTO pets VALUES (14, 'Jolly Jumper', '2012-09-20', 7, 5);
+INSERT INTO pets VALUES (15, 'Flycka', '2012-07-14', 7, 9);
